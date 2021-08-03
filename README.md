@@ -6,3 +6,13 @@
 Devops solutions for local development, personalization for developers
 Own Cup full of API things to controll your project, how you like it ;)
 
+## Example of BASH script
+
+
+
+
+## More projects
+
++ php
++ java
++ nodejs
