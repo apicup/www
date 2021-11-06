@@ -2,6 +2,18 @@
 
 # [www.apicup.com](https://www.apicup.com)
 
+rozwiązanie do szybkiego implementowania zmian w kodzie obcym , 
+pozwala na wykonywanie wielu działań na wielu repozytoriach jednocześnie
++ deploy
++ test
++ build
+
+## Podobne projekty
++ [apigoal.com](https://www.apigoal.com/)
++ [apitee.com](https://www.apitee.com/)
++ [apifork.com](https://www.apifork.com/)
+
+
 ## Why
 Devops solutions for local development, personalization for developers
 Own Cup full of API things to controll your project, how you like it ;)
